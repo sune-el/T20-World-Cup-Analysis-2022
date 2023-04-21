@@ -1,4 +1,5 @@
-# T20-World-Cup-Analysis-2022This project presents an analysis of the T20 World Cup 2022, including statistical data on player performance, team strategies, and match predictions. The data for this analysis was collected from various sources, including CricInfo, cricket databases, CodeBasics, and other reputable online resources.
+# T20-World-Cup-Analysis-2022
+This project presents an analysis of the T20 World Cup 2022, including statistical data on player performance, team strategies, and match predictions. The data for this analysis was collected from various sources, including CricInfo, cricket databases, CodeBasics, and other reputable online resources.
 
 To preprocess and clean the data, we utilized Pandas and organized it into a useful structure for analysis. We then visualized the data using a Power BI dashboard, ensuring that it was easily understandable for our audience.
 
